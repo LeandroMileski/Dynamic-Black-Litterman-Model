@@ -1,6 +1,3 @@
-# Dynamic-Black-Litterman-Model
-Undergraduate Thesis - Portfolio Optimization with the Black-Litterman Model: A Sector Portfolio Analysis in the United States
-
 # Black-Litterman Portfolio Optimization
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
