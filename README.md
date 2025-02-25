@@ -1,6 +1,3 @@
-# Black-Litterman Portfolio Optimization
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 This repository contains the implementation of my undergraduate thesis (*Trabalho de Conclusão de Curso*) titled **"Portfolio Optimization with the Black-Litterman Model: A Sectoral Portfolio Analysis in the United States"**, submitted to the Federal University of Santa Catarina (UFSC), Joinville Campus. The project explores the application of the Black-Litterman (BL) model to optimize sectoral investment portfolios based on the S&P 500, comparing two configurations—Restricted (MaxSharpe) and Unrestricted (LongShort)—against the S&P 500 benchmark.
